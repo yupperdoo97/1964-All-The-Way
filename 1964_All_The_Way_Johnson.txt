@@ -119,151 +119,151 @@ if(ans == 2566){
         campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
 }
    if(ans == 2018){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1106);
+        campaignTrail_temp.question_number = 40;
     }
    if(ans == 2020){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1106);
+        campaignTrail_temp.question_number = 40;
     }
    if(ans == 2249){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1014);
+        campaignTrail_temp.question_number = 13;
     }
    if(ans == 2250){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1014);
+        campaignTrail_temp.question_number = 13;
     }
    if(ans == 2251){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1014);
+        campaignTrail_temp.question_number = 13;
     }
    if(ans == 2252){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1014);
+        campaignTrail_temp.question_number = 13;
     }
    if(ans == 2365){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2366){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2367){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2368){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2465){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2466){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2467){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2468){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
    if(ans == 2233){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1310);
+        campaignTrail_temp.question_number = 56;
     }
    if(ans == 2234){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1210);
+        campaignTrail_temp.question_number = 48;
     }
    if(ans == 2235){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1210);
+        campaignTrail_temp.question_number = 48;
     }
    if(ans == 2033){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1510);
+        campaignTrail_temp.question_number = 72;
     }
     if(ans == 2034){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1410);
+        campaignTrail_temp.question_number = 64;
     }
     if(ans == 2035){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1410);
+        campaignTrail_temp.question_number = 64;
     }
     if(ans == 2565){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2566){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2567){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2568){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2665){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2666){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2667){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2668){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1018);
+        campaignTrail_temp.question_number = 16;
     }
     if(ans == 2069){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1619);
+        campaignTrail_temp.question_number = 83;
     }
     if(ans == 2070){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1619);
+        campaignTrail_temp.question_number = 83;
     }
     if(ans == 2797){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1026);
+        campaignTrail_temp.question_number = 24;
     }
     if(ans == 2798){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1026);
+        campaignTrail_temp.question_number = 24;
     }
     if(ans == 2799){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1026);
+        campaignTrail_temp.question_number = 24;
     }
     if(ans == 2800){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1026);
+        campaignTrail_temp.question_number = 24;
     }
     if(ans == 2113){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1130);
+        campaignTrail_temp.question_number = 80;
     }
     if(ans == 2115){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1230);
+        campaignTrail_temp.question_number = 81;
     }
     if(ans == 2116){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1330);
+        campaignTrail_temp.question_number = 82;
     }
     if(ans == 2217){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2218){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2219){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2220){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2317){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2318){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2319){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2320){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2417){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2418){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2419){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
     if(ans == 2420){
-        campaignTrail_temp.questions_json[campaignTrail_temp.question_number + 1] = tunnel(1031);
+        campaignTrail_temp.question_number = 29;
     }
      else
     {
